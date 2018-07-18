@@ -5,3 +5,4 @@ feature 2
 >>>>>>> feature2
 Feature B
 Feature B
+feature c
