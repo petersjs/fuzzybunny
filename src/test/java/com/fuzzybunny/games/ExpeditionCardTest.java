@@ -10,7 +10,7 @@ import org.junit.jupiter.params.provider.ValueSource;
 import com.fuzzybunny.games.lostCities.ExpeditionCard;
 import com.fuzzybunny.games.lostCities.ExpeditionCard.ExpeditionCardColor;
 
-// arrange, act, assert
+// arrange, act, assert!
 class ExpeditionCardTest {
     
     @DisplayName("Should accept legal number values")

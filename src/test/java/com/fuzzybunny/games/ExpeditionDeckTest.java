@@ -12,7 +12,7 @@ import com.fuzzybunny.games.lostCities.ExpeditionDeck;
 
 public class ExpeditionDeckTest {
 
-	@DisplayName("Should create empty deck")
+	@DisplayName("Should create empty deck.")
 	@Test
 	void shouldCreateEmptyDeck() {
 		ExpeditionDeck deck = new ExpeditionDeck();
